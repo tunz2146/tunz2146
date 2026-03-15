@@ -1,14 +1,34 @@
-Hi, I'm Túnz 👋
-Backend Developer Student at FPT Polytechnic
+# Hi 👋 I'm Tun
 
-Technologies:
+🎓 Student at FPT Polytechnic  
+💻 Backend Developer (Java)  
+☁️ Learning Cloud Computing & AWS  
+
+---
+
+## 🚀 Skills
 - Java
 - SQL
+- HTML / CSS
 - JavaScript
 - Vue
-- Git
+- Git & GitHub
 
-Currently learning:
+---
+
+## 📚 Currently Learning
 - Cloud Computing
-- AWS
-- DevOps
+- AWS Fundamentals
+- Backend Development
+
+---
+
+## 📂 Projects
+- Sudoku Game (Java)
+- ASM Java Projects
+- Web Development Practice
+
+---
+
+## 📫 Contact
+GitHub: https://github.com/tunz2146
