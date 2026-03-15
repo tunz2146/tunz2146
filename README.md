@@ -31,4 +31,6 @@
 ---
 
 ## 📫 Contact
+GitHub: https://github.com/tunz2146
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tunz2146&show_icons=true&theme=tokyonight)
